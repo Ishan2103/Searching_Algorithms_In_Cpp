@@ -1,4 +1,7 @@
-#Searching Algorithms In Cpp
+# Searching Algorithms in C++
+
+## Aim
+To implement and study different searching algorithms in C++, including Linear Search, Binary Search, Jump Search, Interpolation Search, and Fibonacci Search, and to understand their working, efficiency, and practical applications.
 
 In C++, searching is the process of locating a specific element within a data structure such as an array. It is an essential operation in programming to retrieve data efficiently.
 
