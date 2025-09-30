@@ -1,3 +1,4 @@
+#Searching Algorithms In Cpp
 
 In C++, searching is the process of locating a specific element within a data structure such as an array. It is an essential operation in programming to retrieve data efficiently.
 
